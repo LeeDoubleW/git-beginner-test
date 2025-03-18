@@ -1,2 +1,3 @@
 reset Test Textreset Test Text seconds
 revert test text
+revert test text seconds
