@@ -1,1 +1,9 @@
 dummy dummy
+
+reset을 위한 dummy text1
+
+reset을 위한 dummy text2
+
+reset을 위한 dummy text3
+
+cherry-pick을 알아보자!
